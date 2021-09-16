@@ -1,4 +1,4 @@
-from flask import Flask, app
+from flask import Flask
 from config import config_options
 from flask_bootstrap import Bootstrap, bootstrap_find_resource
 from flask_sqlalchemy import SQLAlchemy
